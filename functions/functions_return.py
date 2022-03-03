@@ -15,9 +15,9 @@ def print_formatted_name(firstname: str, lastname: str):
 # print(get_formatted_name('jane', 'doe'))
 #
 # print_formatted_name('ali', 'tehrani')
-# student = print_formatted_name('baur', 'eskara')
+# student = print_formatted_name('John', 'Smith')
 # print(f"value of student is : {student}")
-# print(f"value of student is : {print_formatted_name('baur', 'eskara')}")
+# print(f"value of student is : {print_formatted_name('John', 'Smith')}")
 
 
 # getter, setter functions
